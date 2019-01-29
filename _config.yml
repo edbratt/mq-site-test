@@ -1,4 +1,4 @@
-remote_theme: jakartaee/jekyll-theme-jakarta-ee
+remote_theme:  jgallimore/jekyll-theme-jakarta-ee
 
 title: [Eclipse OpenMQ]
 description: [Eclipse Open Message Queue (Eclipse Open MQ) -- A complete JMS MOM Platform]
