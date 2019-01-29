@@ -6,7 +6,7 @@ Eclipse Open Message Queue 5.1.4 is the JMS provider in Eclipse GlassFish Server
 
 ## License
 
-[Click here to view the license](LICENSE).
+[Click here to view the license](https://github.com/eclipse-ee4j/openmq/blob/master/LICENSE.md).
 
 ## Downloads
 
