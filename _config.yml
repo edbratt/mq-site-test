@@ -9,7 +9,7 @@ links:
   download: https://projects.eclipse.org/projects/ee4j.glassfish/downloads
   mailinglist: https://accounts.eclipse.org/mailing-list/openmq-dev
   #javadocs:
-  docs: guides/Readme
+  docs: guides/index.html
   #faq:
   #hide_issuetracker: true #set explicitly to 'true' if you don't want to have the issue tracker link displayed
 
